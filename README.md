@@ -16,6 +16,7 @@ It focuses on simulating trading strategies for the **M/USDT pair** (and potenti
 
 ## 📂 File Structure
 - `Backtest_MUSDT_Alexandros.ipynb` → Main notebook with code, analysis, and plots.
+- `plots/` → Saved plots for each exchange pair.
 - (Optional) `data/` → Directory where raw or cleaned order book data is stored.
 
 ## 🚀 Getting Started
